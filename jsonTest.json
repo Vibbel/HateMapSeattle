@@ -1,0 +1,37 @@
+{
+    "points": [
+        {
+            "coordinates": [
+                -122.3143835504005,
+                47.61546496717413
+            ],
+            "date": "1/18/2025",
+            "type": "Point",
+            "photoID": "0",
+            "description": "First marker test",
+            "color": "#B71A1A"
+        },
+        {
+            "coordinates": [
+                -122.3,
+                47.61
+            ],
+            "date": "1/2/2025",
+            "type": "Point",
+            "photoID": "0",
+            "description": "Second marker test",
+            "color": "#C862E4"
+        },
+        {
+            "coordinates": [
+                -122.33,
+                47.6
+            ],
+            "date": "12/12/2024",
+            "type": "Point",
+            "photoID": "0",
+            "description": "Third marker test",
+            "color": "#34D813"
+        }
+    ]
+}
